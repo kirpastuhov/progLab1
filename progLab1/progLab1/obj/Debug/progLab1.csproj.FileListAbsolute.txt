@@ -1,0 +1,6 @@
+/Users/kirillpastuhov/RiderProjects/progLab1/progLab1/bin/Debug/progLab1.exe
+/Users/kirillpastuhov/RiderProjects/progLab1/progLab1/bin/Debug/progLab1.pdb
+/Users/kirillpastuhov/RiderProjects/progLab1/progLab1/obj/Debug/progLab1.csprojResolveAssemblyReference.cache
+/Users/kirillpastuhov/RiderProjects/progLab1/progLab1/obj/Debug/progLab1.csproj.CoreCompileInputs.cache
+/Users/kirillpastuhov/RiderProjects/progLab1/progLab1/obj/Debug/progLab1.exe
+/Users/kirillpastuhov/RiderProjects/progLab1/progLab1/obj/Debug/progLab1.pdb
